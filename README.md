@@ -10,3 +10,4 @@ Spring 2018
 * Feature Engineering 
 * Theory and Support Vector Machine
 * Decision Trees and Boosting
+* ADA Boosting
